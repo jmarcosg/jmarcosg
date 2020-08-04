@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 ![Banner](https://raw.githubusercontent.com/jmarcosg/jmarcosg/master/Banner%20(GitHub).png)
 
-I'm a CS student living in Argentina. I enjoy designing webpages with HTML, CSS and JavaScript. I also love learning how to make cross-platforms native apps with [Ionic](https://ionicframework.com/). I feel like Frontend developing is where my future is.
+I'm a CS student living in Argentina. I enjoy designing webpages with HTML, CSS and JavaScript. I also love learning how to make cross-platform native apps with [Ionic](https://ionicframework.com/). I feel like Frontend developing is where my future is.
 
 - 🔭 I’m currently working on making a college app for students with [Ionic](https://ionicframework.com/).
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Angular.
