@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+![Banner](https://raw.githubusercontent.com/jmarcosg/jmarcosg/master/Banner%20(GitHub).png)
 
 <!--
 **jmarcosg/jmarcosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
