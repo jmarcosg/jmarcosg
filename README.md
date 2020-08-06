@@ -1,11 +1,11 @@
 ### Hi there, I'm Juan Marcos. Aka Juanma 👋
 
 
-## I'm a student, 
+## I'm a college student, Developer and life long learner!
 
 - 🔭 I’m currently working on making a [college app](https://github.com/jmarcosg/FAIappTesting) for students with [Ionic](https://ionicframework.com/).
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, React.
-- 🥅 2020 Goals: Finish my first app.
+- 🥅 2020 Goals: Finish my first app and portfolio.
 - 😄 Fun fact: I like to play guitar, videogames and reading books.
 
 ### Connect with me:
