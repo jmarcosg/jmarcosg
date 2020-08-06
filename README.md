@@ -5,7 +5,7 @@ I'm a CS student living in Argentina. I enjoy designing webpages with HTML, CSS 
 
 - 🔭 I’m currently working on making a college app for students with [Ionic](https://ionicframework.com/).
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Angular.
-- 😄 I like to play guitar, play videogames and reading books.
+- 😄 I like to play guitar, videogames and reading books.
 
 <!--
 **jmarcosg/jmarcosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
