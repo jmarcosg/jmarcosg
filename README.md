@@ -3,7 +3,7 @@
 
 ## I'm a college student, Developer and life long learner!
 
-- 🔭 I’m currently working on making a [college app](https://github.com/jmarcosg/FAIappTesting) for students with [Ionic](https://ionicframework.com/).
+- 🔭 I’m currently working on making a cross-platform mobile [college app](https://github.com/jmarcosg/FAIappTesting) for students with [Ionic](https://ionicframework.com/).
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, React.
 - 🥅 2020 Goals: Finish my first app and portfolio.
 - 😄 Fun fact: I like to play guitar, videogames and reading books.
