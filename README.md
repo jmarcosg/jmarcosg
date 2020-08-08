@@ -37,6 +37,8 @@
 ---
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmarcosg&theme=dark&show_icons=true&hide_border=true" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoZuniga32)
+
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/jmarcosg_
 [youtube]: https://youtube.com/codeSTACKr
