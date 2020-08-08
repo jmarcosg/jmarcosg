@@ -38,8 +38,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jmarcosg&theme=dark&show_icons=true&hide_border=true)
 
----
-
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosg)
 
 [website]: https://codeSTACKr.com
