@@ -38,7 +38,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jmarcosg&theme=dark&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosg&layout=compact&theme=buefy)](https://github.com/jmarcosg/github-readme-stats)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosg)
 
 <!--[website]: https://codeSTACKr.com-->
 [twitter]: https://twitter.com/jmarcosg_
