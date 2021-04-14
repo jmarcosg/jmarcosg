@@ -36,13 +36,13 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=jmarcosg&theme=dark&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=jmarcosg&theme=dark&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosg&layout=compact&theme=buefy)](https://github.com/jmarcosg/github-readme-stats)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosg)
 
-[website]: https://codeSTACKr.com
+<!--[website]: https://codeSTACKr.com-->
 [twitter]: https://twitter.com/jmarcosg_
-[youtube]: https://youtube.com/codeSTACKr
+<!--[youtube]: https://youtube.com/codeSTACKr-->
 [instagram]: https://instagram.com/jmarcos.g
 [linkedin]: https://linkedin.com/in/jmarcosg
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
