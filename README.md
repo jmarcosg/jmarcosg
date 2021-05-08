@@ -4,7 +4,7 @@
 ## I'm a college student, Developer and life long learner!
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
-- 😄 Fun fact: I like to play guitar, taking photos and reading books.
+- 😄 I like to play guitar, gaming, taking photos and reading books.
 
 ### Connect with me:
 
