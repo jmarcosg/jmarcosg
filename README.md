@@ -31,5 +31,5 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-ten-eta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/emicastro1993
+[<img src="https://spotify-now-playing-ten-eta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/jmarcosgonzalez)
 
