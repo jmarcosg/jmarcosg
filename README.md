@@ -29,7 +29,8 @@
       <a href="https://twitch.tv/kcy0_"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### Spotify Playing 🎧
+<br/>
 
-[<img src="https://spotify-now-playing-ten-eta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/jmarcosgonzalez)
+## 🎧 Spotify Now Playing
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jmarcosgonzalez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
