@@ -30,5 +30,5 @@
 </p>
 
 <h2>🎧 Spotify Playing</h2>
-[<img src="https://spotify-now-playing-ten-eta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/jmarcosgonzalez)
+<img src="https://spotify-now-playing-ten-eta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/jmarcosgonzalez)
 
