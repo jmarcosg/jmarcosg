@@ -5,7 +5,9 @@
 </p>
 
 <br/>
-<h2 align="justify">🔧 Technologies & Tools</h2>
+
+## 🔧 Technologies & Tools
+
 <p>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/>
@@ -20,7 +22,9 @@
 </p>
 
 <br/>
-<h2 align="justify">📫 Contact</h2>
+
+## 📫 Contact
+
 <p align='center'>
     <a href="https://www.linkedin.com/in/jmarcosg/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:jmarcos.gonzalez94@gmail.com?subject=Hola%20Juanma"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,4 +37,4 @@
 
 ## 🎧 Spotify Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jmarcosgonzalez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jmarcosgonzalez&cover_image=true&theme=default)
