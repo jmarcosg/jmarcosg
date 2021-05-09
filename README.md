@@ -29,3 +29,6 @@
       <a href="https://twitch.tv/kcy0_"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h2>🎧 Spotify Playing</h2>
+[<img src="https://spotify-now-playing-ten-eta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/jmarcosgonzalez)
+
