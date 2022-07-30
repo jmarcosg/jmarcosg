@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hello! I'm Juan Marcos Gonzalez</h1>
 <h3 align="left">I'm a Junior PHP Fullstack Developer transitioning into a JS Fullstack Developer</h3>
 
-- 💼 I'm currently open for work
+- 💼 I'm currently working for "Secretaría de Modernización de la Municipalidad de Neuquén" as a Software Developer
 - 🌱 I’m currently learning **MERN**
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
