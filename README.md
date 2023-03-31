@@ -3,17 +3,9 @@
 
 - 💼 I'm currently working for "Secretaría de Modernización de la Municipalidad de Neuquén" as a Fullstack Software Developer
 
-![jmarcosg's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosg&layout=compact&title_color=D41C57&text_color=FFFFFF&theme=dark&hide_border=true)
-
-![jmarcosg's github stats](https://github-readme-stats.vercel.app/api?username=jmarcosg&show_icons=true&hide_border=true&title_color=D41C57&text_color=FFFFFF&icon_color=D41C57&theme=dark)
-
-<br>
-
 ## 🔧 Skills
 
 > Languages, tools, and other things that I like to work with.
-
-<!--Languages-->
 
 ### Frontend and Design
 
@@ -51,6 +43,12 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" /></a>
 </p>
+
+<br>
+
+![jmarcosg's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcosg&layout=compact&title_color=D41C57&text_color=FFFFFF&theme=dark&hide_border=true)
+
+![jmarcosg's github stats](https://github-readme-stats.vercel.app/api?username=jmarcosg&show_icons=true&hide_border=true&title_color=D41C57&text_color=FFFFFF&icon_color=D41C57&theme=dark)
 
 <br>
 
