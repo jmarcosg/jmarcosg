@@ -13,7 +13,7 @@
 I build scalable web applications for national and international brands, the public sector, and education. My strongest lane is frontend engineering with React, Next.js, TypeScript, UX/UI, performance, and maintainability, but most of my day-to-day now is fullstack: Medusa commerce backends, integrations, multi-store platforms, and applied AI.
 
 - 💼 Currently working remotely at <a href="https://minimalart.co" target="_blank" rel="noreferrer">Minimalart</a> as a Frontend / Fullstack Software Developer.
-- 🏗️ Core contributor to **Mercatto**, Minimalart's reusable Medusa v2 + Next.js commerce platform that powers several client stores.
+- 🏗️ Core contributor to <a href="https://minimalart.co/brick" target="_blank" rel="noreferrer"><b>Brick</b></a>, Minimalart's reusable Medusa v2 + Next.js commerce platform that powers several client stores.
 - 🚀 Shipped and maintained products for brands such as Arcor, Coca-Cola, Issue, Saphirus, Villeneuve, and Fontagro.
 - 🧠 Building AI-powered commerce tools: natural-language product search and cart assistance, investment decision support, and automated catalog enrichment.
 - 👨‍🏫 Teaching Assistant at Universidad Nacional del Comahue (OOP and Dynamic Web Programming).
@@ -21,7 +21,7 @@ I build scalable web applications for national and international brands, the pub
 
 ## 🔭 What I'm working on
 
-- **Mercatto (multi-store commerce platform)** — pnpm + Turborepo monorepo with a Medusa v2 backend, a Next.js 15 / React 19 storefront, and 30+ pluggable extensions. I work on the multi-store layer (per-store scoping and per-store provider credentials), ERP sync, WhatsApp flows, transactional email templates, GA4, Typesense search, and shipping/payment providers (Andreani, Correo Argentino, MercadoPago).
+- **[Brick](https://minimalart.co/brick) (multi-store commerce platform)** — pnpm + Turborepo monorepo with a Medusa v2 backend, a Next.js 15 / React 19 storefront, and 30+ pluggable extensions. I work on the multi-store layer (per-store scoping and per-store provider credentials), ERP sync, WhatsApp flows, transactional email templates, GA4, Typesense search, and shipping/payment providers (Andreani, Correo Argentino, MercadoPago).
 - **Selectio B2B** — B2B ecommerce on Medusa + Next.js with Zoho CRM/Books/Inventory integrations, costing and inventory-booking domains, plus an AI cataloging tool that infers categories and improves titles/descriptions from product images and text.
 - **Issue Color** — full redesign and rebuild of the web app on Next.js + Medusa, with Stripe/MercadoPago checkout and instant search.
 - **Arcor en Casa (Chile & Argentina)** — ecommerce storefronts, Strapi CMS, and backend services.
@@ -51,7 +51,7 @@ I use AI as an engineering accelerator, not as a replacement for understanding t
 
 - Developed and optimized websites for Arcor, Coca-Cola, Issue, Saphirus, Villeneuve, and Fontagro with React, Next.js, and Tailwind CSS.
 - Developed, deployed, and maintained backend services and integrations with Node.js, Medusa, Supabase, Strapi, Clerk, and DigitalOcean.
-- Contributed to Arcor en Casa Chile, the full redesign of Issue Color, the Mercatto commerce platform, and AI-powered tools for Selectio.
+- Contributed to Arcor en Casa Chile, the full redesign of Issue Color, the Brick commerce platform, and AI-powered tools for Selectio.
 - Implemented a natural-language shopping chat (search, category filters, add to cart, investment support) and an automated cataloger that generates files for bulk product uploads and updates.
 
 ### Universidad Nacional del Comahue — Teaching Assistant
