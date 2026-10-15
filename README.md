@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello! I'm Juan Marcos Gonzalez</h1>
-<h3 align="left">Frontend / Fullstack Software Engineer focused on useful, maintainable, and polished web products.</h3>
+<h3 align="left">Product Builder | Software Engineer — digital products, applied AI and automation.</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jmarcosg/" target="_blank" rel="noreferrer">
@@ -10,12 +10,14 @@
   </a>
 </p>
 
-I build scalable web applications for national and international brands, the public sector, and education. My strongest lane is frontend engineering with React, Next.js, TypeScript, UX/UI, performance, and maintainability, but most of my day-to-day now is fullstack: Medusa commerce backends, integrations, multi-store platforms, and applied AI.
+I turn concrete problems into digital products that people can use, maintain and evolve. Over six years I've worked in public services, education and B2B/B2C e-commerce, combining an understanding of needs with technical execution.
 
-- 💼 Currently working remotely at <a href="https://minimalart.co" target="_blank" rel="noreferrer">Minimalart</a> as a Frontend / Fullstack Software Developer.
+My approach starts with learning the domain, listening to the people who use or operate the solution and clarifying constraints. From there I define requirements, design workflows, implement, validate and iterate, using PRDs, user stories, flow diagrams and wireframes to turn ambiguity into concrete decisions. My technical foundation is Frontend and Fullstack development with React, Next.js and TypeScript, plus backend, API and service integration.
+
+- 💼 Currently working remotely at <a href="https://minimalart.co" target="_blank" rel="noreferrer">Minimalart</a> as a Frontend Software Developer.
 - 🏗️ Core contributor to <a href="https://minimalart.co/brick" target="_blank" rel="noreferrer"><b>Brick</b></a>, Minimalart's reusable Medusa v2 + Next.js commerce platform that powers several client stores.
 - 🚀 Shipped and maintained products for brands such as Arcor, Coca-Cola, Issue, Saphirus, Villeneuve, and Fontagro.
-- 🧠 Building AI-powered commerce tools: natural-language product search and cart assistance, investment decision support, and automated catalog enrichment.
+- 🧠 Applying AI and automation to operational needs: conversational assistants, catalog automation, and WhatsApp flows with Kapso for queries and purchases.
 - 👨‍🏫 Teaching Assistant at Universidad Nacional del Comahue (OOP and Dynamic Web Programming).
 - 🌎 Based in Cipolletti, Río Negro, Argentina. Spanish native, English C1.
 
@@ -49,10 +51,10 @@ I use AI as an engineering accelerator, not as a replacement for understanding t
 ### Minimalart — Frontend Software Developer
 `February 2025 – Present · Buenos Aires, Argentina · Remote`
 
-- Developed and optimized websites for Arcor, Coca-Cola, Issue, Saphirus, Villeneuve, and Fontagro with React, Next.js, and Tailwind CSS.
-- Developed, deployed, and maintained backend services and integrations with Node.js, Medusa, Supabase, Strapi, Clerk, and DigitalOcean.
-- Contributed to Arcor en Casa Chile, the full redesign of Issue Color, the Brick commerce platform, and AI-powered tools for Selectio.
-- Implemented a natural-language shopping chat (search, category filters, add to cart, investment support) and an automated cataloger that generates files for bulk product uploads and updates.
+- Develop and optimize websites and interfaces for Arcor, Coca-Cola, Issue, Saphirus, Villeneuve, and Fontagro with React, Next.js, and Tailwind CSS.
+- Develop, deploy, and maintain backends and integrated services with Node.js, Medusa, Supabase, Strapi, Clerk, and DigitalOcean.
+- Contribute to Arcor en Casa Chile, the Issue Color redesign, the Brick commerce platform, and AI tools for Selectio.
+- Implemented a natural-language assistant (product queries, category filters, add to cart, investment support) and an automated cataloging tool that infers categories from images, titles, and descriptions and generates Excel files for product uploads and updates.
 
 ### Universidad Nacional del Comahue — Teaching Assistant
 `August 2023 – Present · Neuquén, Argentina · Hybrid`
@@ -63,16 +65,16 @@ I use AI as an engineering accelerator, not as a replacement for understanding t
 ### Municipality of Neuquén — Fullstack Software Developer
 `July 2022 – February 2025 · Neuquén, Argentina`
 
-- Designed and implemented internal and citizen-facing software with React, Angular, TypeScript, Laravel, PHP, and SQL.
-- Improved municipal system UX and performance, increasing user interaction by 30% and reducing page load times by 50%.
-- Led technical development of responsive, maintainable solutions for internal processes and digital citizen services.
+- Designed, developed, and implemented web applications for internal processes and digital public services with React, Angular, TypeScript, Laravel, PHP, and SQL.
+- Contributed to solutions covering administrative procedures, appointments, licenses, fines, maps, dashboards, and document management, translating functional needs into technical implementation.
+- Worked on responsive interfaces, UX, performance, and maintainability, contributing technical judgment to how those solutions evolved.
 
 ### Universidad Nacional del Comahue — Fullstack Software Developer
 `October 2020 – July 2022 · Neuquén, Argentina`
 
-- Built an educational app to help people with Autism Spectrum Disorder learn JavaScript using React, Node.js, MongoDB, and Google Blockly.
+- Developed an educational platform for teaching programming to people with Autism Spectrum Disorder using React, Node.js, MongoDB, and Google Blockly.
 - Redesigned and refactored the Juntar events platform with Laravel, Tailwind CSS, MySQL, Livewire, and Jetstream.
-- Collaborated on the Gukena electronic voting system with SIU-TOBA, PHP, Bootstrap, and PostgreSQL.
+- Collaborated with the Euclides team on Gukena, an electronic voting system, using SIU-TOBA, PHP, Bootstrap, and PostgreSQL.
 
 ## 🔧 Tech Stack
 
@@ -132,11 +134,13 @@ I use AI as an engineering accelerator, not as a replacement for understanding t
 
 ## 🎓 Education
 
-- Bachelor's Degree in Computer Science — Universidad Nacional del Comahue, in progress (2023 – present).
-- University Technician in Web Application Development — Universidad Nacional del Comahue (2020 – 2023).
+- Licenciatura in Computer Science — Universidad Nacional del Comahue, in progress (March 2023 – present).
+- University Technical Degree in Web Application Development — Universidad Nacional del Comahue (July 2020 – May 2023).
 
 ## 🧩 What I care about
 
+- Understanding the problem and the domain before choosing the solution.
+- Incremental progress and small experiments that reduce risk without breaking what already works.
 - Software that is simple to use, but not simplistic under the hood.
 - UI systems that scale without turning into a pile of one-off components.
 - Clean architecture, readable code, and documentation that helps the next developer move faster.
