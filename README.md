@@ -15,7 +15,7 @@ I turn concrete problems into digital products that people can use, maintain and
 My approach starts with learning the domain, listening to the people who use or operate the solution and clarifying constraints. From there I define requirements, design workflows, implement, validate and iterate, using PRDs, user stories, flow diagrams and wireframes to turn ambiguity into concrete decisions. My technical foundation is Frontend and Fullstack development with React, Next.js and TypeScript, plus backend, API and service integration.
 
 - 💼 Currently working remotely at <a href="https://minimalart.co" target="_blank" rel="noreferrer">Minimalart</a> as a Frontend Software Developer.
-- 🏗️ Core contributor to <a href="https://minimalart.co/brick" target="_blank" rel="noreferrer"><b>Brick</b></a>, Minimalart's reusable Medusa v2 + Next.js commerce platform that powers several client stores.
+- 🏗️ Core contributor and stakeholder of <a href="https://minimalart.co/en/brick" target="_blank" rel="noreferrer"><b>Brick</b></a>, Minimalart's reusable Medusa v2 + Next.js foundation for complex e-commerce (multi-store, ERP, B2B, subscriptions, logistics, loyalty, gift cards, AI + MCP) that powers several client stores.
 - 🚀 Shipped and maintained products for brands such as Arcor, Coca-Cola, Issue, Saphirus, Villeneuve, and Fontagro.
 - 🧠 Applying AI and automation to operational needs: conversational assistants, catalog automation, and WhatsApp flows with Kapso for queries and purchases.
 - 👨‍🏫 Teaching Assistant at Universidad Nacional del Comahue (OOP and Dynamic Web Programming).
@@ -23,7 +23,7 @@ My approach starts with learning the domain, listening to the people who use or 
 
 ## 🔭 What I'm working on
 
-- **[Brick](https://minimalart.co/brick) (multi-store commerce platform)** — pnpm + Turborepo monorepo with a Medusa v2 backend, a Next.js 15 / React 19 storefront, and 30+ pluggable extensions. I work on the multi-store layer (per-store scoping and per-store provider credentials), ERP sync, WhatsApp flows, transactional email templates, GA4, Typesense search, and shipping/payment providers (Andreani, Correo Argentino, MercadoPago).
+- **[Brick](https://minimalart.co/en/brick) (multi-store commerce platform)** — pnpm + Turborepo monorepo with a Medusa v2 backend, a Next.js 15 / React 19 storefront, and 30+ pluggable extensions. I work on the multi-store layer (per-store scoping and per-store provider credentials), ERP sync, WhatsApp flows, transactional email templates, GA4, Typesense search, and shipping/payment providers (Andreani, Correo Argentino, MercadoPago).
 - **Selectio B2B** — B2B ecommerce on Medusa + Next.js with Zoho CRM/Books/Inventory integrations, costing and inventory-booking domains, plus an AI cataloging tool that infers categories and improves titles/descriptions from product images and text.
 - **Issue Color** — full redesign and rebuild of the web app on Next.js + Medusa, with Stripe/MercadoPago checkout and instant search.
 - **Arcor en Casa (Chile & Argentina)** — ecommerce storefronts, Strapi CMS, and backend services.
